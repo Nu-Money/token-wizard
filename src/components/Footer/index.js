@@ -16,7 +16,7 @@ export const Footer = () => {
           <a href="https://twitter.com/poanetwork" className="social social_twitter">Twitter</a>
           <a href="https://poa.network" className="social social_oracles">POA Network</a>
           <a href="https://t.me/oraclesnetwork" className="social social_telegram">Telegram</a>
-          <a href="https://github.com/poanetwork/" className="social social_github">GitHub</a>
+          <a href="https://github.com/bertux/token-wizard" className="social social_github">GitHub</a>
         </div>
       </div>
     </footer>
