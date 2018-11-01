@@ -10,7 +10,7 @@ export const Footer = () => {
   const footer = (
     <footer className="footer">
       <div className="container">
-        <p className="rights">{moment().format('YYYY')} POA Network. All rights reserved.</p>
+        <p className="rights">{moment().format('YYYY')} Hosted By: POA Network. All rights reserved.</p>
         <Link className="logo" to='/'/>
         <div className="socials">
           <a href="https://twitter.com/poanetwork" className="social social_twitter">Twitter</a>
